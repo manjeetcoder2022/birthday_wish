@@ -1,0 +1,21 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-style: ridge;
+   border-width: 15px;
+   margin-top: 40px;
+   border-color: blue;
+}
+
+button{
+    width: 100px;
+    height: 40px;
+}
+#stop{
+    display: none;
+}
